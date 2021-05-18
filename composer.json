@@ -1,0 +1,17 @@
+{
+    "name": "supermarket-checkout",
+    "description": "Supermarket checkout",
+    "autoload": {
+        "psr-4": {
+            "Supermarket\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.2"
+    }
+}
