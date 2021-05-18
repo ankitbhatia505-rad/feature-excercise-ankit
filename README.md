@@ -41,3 +41,15 @@ combination of its special prices. For example: If you buy 5 ‘C’s you would 
 If you buy 4 ‘C’s you would get 3 for 50 + 1 for 20 rather than 2 for 38 + 2 for 38.
 2 For every ‘D’ purchased, if there is also an ‘A’ purchased, it will cost 5 instead of 15. For
 example, if you buy 10 ‘D’s and 6 ‘A’s, 6 of the ‘D’s will cost 5 each whilst the other 4 will cost 15
+
+
+
+To Run This code :
+
+Please follow the below steps:
+
+1) Create folder with supermarket name
+2) Then go inside the folder .
+3) Run composer install command
+4) Then go to the tests/SupermarketTest.php and run phpunit test and check the cases of supermarket checkout
+
